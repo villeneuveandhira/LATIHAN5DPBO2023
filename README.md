@@ -15,12 +15,12 @@ Aamiin.<br/>
 ![image](https://user-images.githubusercontent.com/101118033/227774525-c17a2ffd-a1f5-4901-90b0-0f2bf9c57423.png)
 
 # DOKUMENTASI
-- Add
+- Add<br />
 ![image](https://user-images.githubusercontent.com/101118033/227775780-eddfd039-55cb-4e9c-acd7-a8b1bcf54ae5.png)
 ![image](https://user-images.githubusercontent.com/101118033/227774565-ab14ec40-926d-4436-97d9-459ca553e85b.png)
-- Update
+- Update<br />
 ![image](https://user-images.githubusercontent.com/101118033/227774586-65544745-be07-476e-917a-089cf506fe85.png)
-- Delete
+- Delete<br />
 ![image](https://user-images.githubusercontent.com/101118033/227774609-c79e63a4-b7ff-4daa-b6c9-c0f7cc7c5556.png)
 ![image](https://user-images.githubusercontent.com/101118033/227774615-c832172a-af33-4dad-b830-894a8e861a49.png)
 
