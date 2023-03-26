@@ -14,6 +14,7 @@ Saya Villeneuve Andhira Suwandhi dengan NIM 2108067 mengerjakan Latihan 5 DPBO d
 
 # DOKUMENTASI
 - Add
+![image](https://user-images.githubusercontent.com/101118033/227775780-eddfd039-55cb-4e9c-acd7-a8b1bcf54ae5.png)
 ![image](https://user-images.githubusercontent.com/101118033/227774565-ab14ec40-926d-4436-97d9-459ca553e85b.png)
 - Update
 ![image](https://user-images.githubusercontent.com/101118033/227774586-65544745-be07-476e-917a-089cf506fe85.png)
@@ -24,6 +25,7 @@ Saya Villeneuve Andhira Suwandhi dengan NIM 2108067 mengerjakan Latihan 5 DPBO d
 # ALUR
 1. Insert:
 - Isi semua datanya lalu klik button 'add',
+- Message dialog 'belum lengkap' jika data belum semuanya diisi,
 - Data value yang sudah diisi dan dipilih user dimasukkan,
 - Objek Mahasiswa dengan konstruktor kelas Mahasiswa dalam list of object listMhs,
 - Reset form,
