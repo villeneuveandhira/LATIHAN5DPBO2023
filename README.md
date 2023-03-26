@@ -7,6 +7,7 @@ Soal :
 - Build project (generate .jar file)
 
 # FORMAT JANJI
+Saya Villeneuve Andhira Suwandhi dengan NIM 2108067 mengerjakan Latihan 5 DPBO dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # DESAIN
 ![image](https://user-images.githubusercontent.com/101118033/227774525-c17a2ffd-a1f5-4901-90b0-0f2bf9c57423.png)
